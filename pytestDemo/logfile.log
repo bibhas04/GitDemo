@@ -1,0 +1,8 @@
+2020-10-14 19:18:24,453 :INFO :test_editProfile :Bibhas
+2020-10-14 19:18:24,453 :INFO :test_editProfile :rahulshettyacademy
+2020-10-14 19:24:09,924 :INFO :pytestDemo.test_Logging :Information statement
+2020-10-14 19:24:09,924 :WARNING :pytestDemo.test_Logging :Something is in warning mode
+2020-10-14 19:24:09,924 :ERROR :pytestDemo.test_Logging :A major error has happend
+2020-10-14 19:24:09,924 :CRITICAL :pytestDemo.test_Logging :Critical issue
+2020-10-14 19:24:10,626 :INFO :test_editProfile :Bibhas
+2020-10-14 19:24:10,626 :INFO :test_editProfile :rahulshettyacademy
